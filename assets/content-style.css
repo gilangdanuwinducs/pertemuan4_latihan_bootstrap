@@ -1,0 +1,5 @@
+.img-wrap img{
+    max-width: 150px !important;
+    border-radius: 10px !important;
+    object-fit: cover !important;
+}
